@@ -1,0 +1,1 @@
+import{Ma as i,Na as a,U as o,Xa as r,bb as m}from"./chunk-KVUKL6AM.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-community"]],standalone:!0,features:[m],decls:2,vars:0,template:function(n,c){n&1&&(i(0,"p"),r(1,"community works!"),a())}});let t=e;return t})();export{d as CommunityComponent};

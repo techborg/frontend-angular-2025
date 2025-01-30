@@ -13,6 +13,30 @@ export const COURSES: Course[] = [
     id: '2',
     category: 'react',
   },
+  {
+    title: 'ReactJS',
+    description: 'The best Next 14 course ever',
+    id: '3',
+    category: 'react',
+  },
+  {
+    title: 'NodeJS',
+    description: 'The best Next 14 course ever',
+    id: '4',
+    category: 'TypeScrpit',
+  },
+  {
+    title: 'Python',
+    description: 'The best Next 14 course ever',
+    id: '5',
+    category: '',
+  },
+  {
+    title: 'Django',
+    description: 'The best Next 14 course ever',
+    id: '6',
+    category: '',
+  },
 ];
 
 export const LECTURES: Lecture[] = [
